@@ -11,4 +11,4 @@
 
 *.xml linguist-detectable=false
 
-*.c++ linguist-detectable=false
+*.C++ linguist-detectable=false
